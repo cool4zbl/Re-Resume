@@ -50,7 +50,7 @@
     "copyfiles": "^1.2.0",
     "cross-env": "^5.0.1",
     "css-loader": "^0.28.4",
-    "easy-pdf-merge": "^0.2.5",
+    "easy-pdf-merge": "0.2.6",
     "eslint": "^7.7.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.22.0",
