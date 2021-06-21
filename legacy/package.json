@@ -71,7 +71,7 @@
     "react-typography": "^0.15.10",
     "styled-components": "^2.0.0",
     "styled-theme": "^0.3.0",
-    "styled-tools": "^0.1.2",
+    "styled-tools": "0.6.2",
     "typography": "^0.15.12",
     "typography-plugin-code": "^0.15.11",
     "typography-theme-funston": "^0.15.10",
