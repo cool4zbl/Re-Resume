@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@babel/cli@^7.10.5":
+"@babel/cli@7.10.5":
   version "7.10.5"
   resolved "https://registry.npm.taobao.org/@babel/cli/download/@babel/cli-7.10.5.tgz?cache=0&sync_timestamp=1594749315560&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fcli%2Fdownload%2F%40babel%2Fcli-7.10.5.tgz"
   integrity sha1-V98ph8jPidD8fUsVfsWddhnxt3o=
@@ -34,7 +34,7 @@
     invariant "^2.2.4"
     semver "^5.5.0"
 
-"@babel/core@^7.1.0", "@babel/core@^7.11.1", "@babel/core@^7.7.5":
+"@babel/core@7.11.1", "@babel/core@^7.1.0", "@babel/core@^7.7.5":
   version "7.11.1"
   resolved "https://registry.npm.taobao.org/@babel/core/download/@babel/core-7.11.1.tgz?cache=0&sync_timestamp=1596578841407&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fcore%2Fdownload%2F%40babel%2Fcore-7.11.1.tgz"
   integrity sha1-LFW2BOc6QNwhsOUmULEcZc8nZkM=
@@ -305,7 +305,7 @@
     "@babel/helper-remap-async-to-generator" "^7.10.4"
     "@babel/plugin-syntax-async-generators" "^7.8.0"
 
-"@babel/plugin-proposal-class-properties@^7.10.4":
+"@babel/plugin-proposal-class-properties@7.10.4", "@babel/plugin-proposal-class-properties@^7.10.4":
   version "7.10.4"
   resolved "https://registry.npm.taobao.org/@babel/plugin-proposal-class-properties/download/@babel/plugin-proposal-class-properties-7.10.4.tgz?cache=0&sync_timestamp=1593522937004&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-class-properties%2Fdownload%2F%40babel%2Fplugin-proposal-class-properties-7.10.4.tgz"
   integrity sha1-ozv2Mto5ClnHqMVwBF0RFc13iAc=
@@ -378,7 +378,7 @@
     "@babel/helper-plugin-utils" "^7.10.4"
     "@babel/plugin-syntax-optional-catch-binding" "^7.8.0"
 
-"@babel/plugin-proposal-optional-chaining@^7.11.0":
+"@babel/plugin-proposal-optional-chaining@7.11.0", "@babel/plugin-proposal-optional-chaining@^7.11.0":
   version "7.11.0"
   resolved "https://registry.npm.taobao.org/@babel/plugin-proposal-optional-chaining/download/@babel/plugin-proposal-optional-chaining-7.11.0.tgz?cache=0&sync_timestamp=1596145014102&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fplugin-proposal-optional-chaining%2Fdownload%2F%40babel%2Fplugin-proposal-optional-chaining-7.11.0.tgz"
   integrity sha1-3lhm0GRvav2quKVmOC/joiF1UHY=
@@ -825,7 +825,7 @@
     "@babel/helper-create-regexp-features-plugin" "^7.10.4"
     "@babel/helper-plugin-utils" "^7.10.4"
 
-"@babel/preset-env@^7.11.0":
+"@babel/preset-env@7.11.0":
   version "7.11.0"
   resolved "https://registry.npm.taobao.org/@babel/preset-env/download/@babel/preset-env-7.11.0.tgz"
   integrity sha1-hg7jjyzhetYEgMICG6lok5Pvt5Y=
@@ -910,7 +910,7 @@
     "@babel/types" "^7.4.4"
     esutils "^2.0.2"
 
-"@babel/preset-react@^7.10.4":
+"@babel/preset-react@7.10.4":
   version "7.10.4"
   resolved "https://registry.npm.taobao.org/@babel/preset-react/download/@babel/preset-react-7.10.4.tgz"
   integrity sha1-kuimbYFvmRHRHUzJNb5nrfyC288=
@@ -923,7 +923,7 @@
     "@babel/plugin-transform-react-jsx-source" "^7.10.4"
     "@babel/plugin-transform-react-pure-annotations" "^7.10.4"
 
-"@babel/preset-typescript@^7.10.4":
+"@babel/preset-typescript@7.10.4":
   version "7.10.4"
   resolved "https://registry.npm.taobao.org/@babel/preset-typescript/download/@babel/preset-typescript-7.10.4.tgz?cache=0&sync_timestamp=1593521341278&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fpreset-typescript%2Fdownload%2F%40babel%2Fpreset-typescript-7.10.4.tgz"
   integrity sha1-fV0FLlKmgkgNbizFqjG+YcjCXjY=
@@ -1942,7 +1942,7 @@ babel-code-frame@^6.11.0:
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
-babel-eslint@^10.1.0:
+babel-eslint@10.1.0:
   version "10.1.0"
   resolved "https://registry.npm.taobao.org/babel-eslint/download/babel-eslint-10.1.0.tgz"
   integrity sha1-aWjlaKkQt4+zd5zdi2rC9HmUMjI=
@@ -1968,7 +1968,7 @@ babel-jest@^26.3.0:
     graceful-fs "^4.2.4"
     slash "^3.0.0"
 
-babel-loader@^8.1.0:
+babel-loader@8.1.0:
   version "8.1.0"
   resolved "https://registry.npm.taobao.org/babel-loader/download/babel-loader-8.1.0.tgz?cache=0&sync_timestamp=1584717315701&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbabel-loader%2Fdownload%2Fbabel-loader-8.1.0.tgz"
   integrity sha1-xhHVESvVIJq+i5+oTD5NolJ18cM=
