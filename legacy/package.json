@@ -22,8 +22,8 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@storybook/addon-actions": "^3.0.0",
-    "@storybook/react": "^3.0.0",
+    "@storybook/addon-actions": "3.4.12",
+    "@storybook/react": "3.4.12",
     "@webpack-blocks/dev-server2": "^0.4.0",
     "@webpack-blocks/webpack2": "^0.4.0",
     "babel-core": "^6.25.0",
